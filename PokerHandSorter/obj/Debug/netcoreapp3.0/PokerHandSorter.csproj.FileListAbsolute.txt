@@ -1,0 +1,14 @@
+F:\ICM consulting assessment\PokerHandSorter\PokerHandSorter\bin\Debug\netcoreapp3.0\PokerHandSorter.exe
+F:\ICM consulting assessment\PokerHandSorter\PokerHandSorter\bin\Debug\netcoreapp3.0\PokerHandSorter.deps.json
+F:\ICM consulting assessment\PokerHandSorter\PokerHandSorter\bin\Debug\netcoreapp3.0\PokerHandSorter.runtimeconfig.json
+F:\ICM consulting assessment\PokerHandSorter\PokerHandSorter\bin\Debug\netcoreapp3.0\PokerHandSorter.runtimeconfig.dev.json
+F:\ICM consulting assessment\PokerHandSorter\PokerHandSorter\bin\Debug\netcoreapp3.0\PokerHandSorter.dll
+F:\ICM consulting assessment\PokerHandSorter\PokerHandSorter\bin\Debug\netcoreapp3.0\PokerHandSorter.pdb
+F:\ICM consulting assessment\PokerHandSorter\PokerHandSorter\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ICM consulting assessment\PokerHandSorter\PokerHandSorter\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ICM consulting assessment\PokerHandSorter\PokerHandSorter\obj\Debug\netcoreapp3.0\PokerHandSorter.AssemblyInfoInputs.cache
+F:\ICM consulting assessment\PokerHandSorter\PokerHandSorter\obj\Debug\netcoreapp3.0\PokerHandSorter.AssemblyInfo.cs
+F:\ICM consulting assessment\PokerHandSorter\PokerHandSorter\obj\Debug\netcoreapp3.0\PokerHandSorter.csproj.CopyComplete
+F:\ICM consulting assessment\PokerHandSorter\PokerHandSorter\obj\Debug\netcoreapp3.0\PokerHandSorter.dll
+F:\ICM consulting assessment\PokerHandSorter\PokerHandSorter\obj\Debug\netcoreapp3.0\PokerHandSorter.pdb
+F:\ICM consulting assessment\PokerHandSorter\PokerHandSorter\obj\Debug\netcoreapp3.0\PokerHandSorter.csprojAssemblyReference.cache

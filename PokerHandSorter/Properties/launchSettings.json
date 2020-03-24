@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PokerHandSorter": {
+      "commandName": "Project",
+      "commandLineArgs": "poker-hands.txt"
+    }
+  }
+}
